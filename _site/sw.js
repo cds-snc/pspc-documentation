@@ -1,17 +1,17 @@
-importScripts( '/cache-polyfill.js' );
+importScripts( '/cpp-disability-documentation/cache-polyfill.js' );
 
 var filesToCache = [
   // root
-  '/',
-  '/index.html',
+  '/cpp-disability-documentation/',
+  '/cpp-disability-documentation/index.html',
   // css
-  '/assets/css/main.css',
-  '/assets/css/normalize.css',
-  '/assets/css/syntax.css',
+  '/cpp-disability-documentation/assets/css/main.css',
+  '/cpp-disability-documentation/assets/css/normalize.css',
+  '/cpp-disability-documentation/assets/css/syntax.css',
   // images
-  '/assets/img/octocat.png',
+  '/cpp-disability-documentation/assets/img/octocat.png',
   // pages
-  '/background/','/contact/','/discovery-research/','/home/','/participate/','/team-news/','/accueil/','/coordonnees/','/contexte/','/nouvelles-dequipe/','/participez/','/recherche-de-la-phase-decouverte/',
+  '/cpp-disability-documentation/background/','/cpp-disability-documentation/contact/','/cpp-disability-documentation/discovery-research/','/cpp-disability-documentation/home/','/cpp-disability-documentation/participate/','/cpp-disability-documentation/team-news/','/cpp-disability-documentation/accueil/','/cpp-disability-documentation/coordonnees/','/cpp-disability-documentation/contexte/','/cpp-disability-documentation/nouvelles-dequipe/','/cpp-disability-documentation/participez/','/cpp-disability-documentation/recherche-de-la-phase-decouverte/','/cpp-disability-documentation',
   // posts
   
 ];
