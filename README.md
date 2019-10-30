@@ -1,4 +1,4 @@
-# CPP Disability documentation
+# PSPC documentation
 
 Documenting CDS and ESDC's work to help Canadians access the CPP Disability benefit.
 
