@@ -17,6 +17,9 @@ en:
   contact:
     name: "Contact"
     url: "/contact/"
+  new-section:
+    name: "New Section"
+    url: "/new-section/"
 fr:
   home:
     name: "Accueil"
@@ -36,3 +39,6 @@ fr:
   contact:
     name: "Coordonnées"
     url: "/coordonnees/"
+  new-section:
+    name: "New Section"
+    url: "/new-section/"
