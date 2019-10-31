@@ -6,7 +6,7 @@ permalink: "/discovery-research/"
 trans_url: "/recherche-de-la-phase-decouverte/"
 ---
 
-The goal of Discovery was to identify how CDS and ESDC can decrease the friction for those who are applying for, receiving, and processing CPP Disability benefits. To meet this objective, the team carried out the following research activities:
+The goal of Discovery was to identify how CDS and PSPC can build a single point of access for public sector procurement opportunities. To meet this objective, the team carried out the following research activities:
 
 **Research on the CPPD user journey, user needs, and constraints**
 * Conducted qualitative research, interviewing 32 ESDC processing staff, 4 applicants, and 1 medical professional
