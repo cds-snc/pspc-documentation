@@ -1,5 +1,3 @@
-testing - Kate Wilhelm
-
 ---
 layout: page
 title:  "Team news"
@@ -9,6 +7,7 @@ trans_url: "/nouvelles-dequipe/"
 ---
 
 ### Blog posts
+testing - Kate W
 
 The team sometimes writes blog posts about our work and our processes:
 
