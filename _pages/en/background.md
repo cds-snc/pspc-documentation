@@ -6,7 +6,7 @@ permalink: "/background/"
 trans_url: "/contexte/"
 ---
 
-Public sector procurement supports dialy operations and service delivery to Canadians, including federal, provincial, territorial and municipal governments, academic insttitutions, and social and health sectors (FPT MSAH). Getting a full picture of the total dollar value of public sector procurement is tough, but as of 2015, the OECD estimates that general government procurement in Canada is approximately $267 billion, representing 13.44% of Canada's gross domestic product (GDP). [^2]  
+Public sector procurement supports dialy operations and service delivery to Canadians, including federal, provincial, territorial and municipal governments, academic insttitutions, and social and health sectors (FPT MSAH). Getting a full picture of the total dollar value of public sector procurement is tough, but as of 2015, the OECD estimates that general government procurement in Canada is approximately $267 billion [^1], representing 13.44% of Canada's gross domestic product (GDP). [^2]  
 
 This figure covers the roughly 10,000 buyer organizations that procure goods, services, and construction for the public sector. Currently nine of the provinces and territories have their MASH sectors post tender opportunities on their platform, unifying multiple jurisdictions and buyer organizations on one platform. As of 13 October, 2017, provincial and territorial procurement websites had approximately 4,000 open opportunities [^3]. 
 
@@ -21,9 +21,7 @@ For both domestic and european bussinesses, the SPA presents an opportunity to a
 
 
 --------------------------------------------------------------------------------------------------------------------
-[^1]: British Columbia Government (2015, November 10). Public Sector Procurement Research Summary. [retrieved from](https://www2.gov.bc.ca/assets/gov/government/services-for-government-and-broader-public-sector/buy-goods-services-and-construction/support-services/public_sector_procurement_research_summary.pdf)
-
-[^2]: General government procurement accounts for 13.44% of Canada's Gross Domestic Product ($1.983 trillion). 
+[^1]: General government procurement accounts for 13.44% of Canada's Gross Domestic Product ($1.983 trillion), which is $267 billion.  
 
 [^2]: OECD.Stat. (2017). Government at a Glance -2017 edition: Public Procurement. (table: General government procurement as a percentage of GDP). [retrieved from](https://stats.oecd.org/Index.aspx?DataSetCode=GOV_2015)
 
