@@ -22,7 +22,7 @@ Aggregate is a way to understand how a single point of access might get data fro
 
 Aggregate converts data from province and territories' existing data schemas and formats into the Open Contracting Data Standard (OCDS) and JSON, and stores it in a database for a front-end and API to be built on. During Discovery the team worked with provincial and territorial counterparts to make integration as easy as possible. 
 
-**[Code base](https://github.com/cds-snc/pspc-spa-aggregator)
+[**Code base**](https://github.com/cds-snc/pspc-spa-aggregator)
 
 ### [Prototype 2, "Explore"](https://dsinclair-spa.herokuapp.com/): Get data, visualie it.
 
@@ -36,7 +36,7 @@ As the title suggests, Filter was a low effort way to understand how a single po
 
 Filter helped the team confirm basic data quality assumptions like, which fields are necessary to support the a feature that refines tender notices. It also helped the team surface complexity associated with the using the Government Services and Goods Identification number as the primary means of filtering.
 
-**[Code base](https://github.com/cds-snc/single-point-of-access-data)
+[**Code base**](https://github.com/cds-snc/single-point-of-access-data)
 
 
 
