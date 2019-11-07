@@ -24,17 +24,17 @@ Aggregate converts data from province and territories' existing data schemas and
 
 [**Code base**](https://github.com/cds-snc/pspc-spa-aggregator)
 
-### [Prototype 2, "Explore"](https://dsinclair-spa.herokuapp.com/): Get data, visualie it.
+### [Prototype 2, "Explore"](https://dsinclair-spa.herokuapp.com/): Get data, visualize it.
 
 Explore, is a very low fidelity way to understand what the aggregated content from various buyer organizations looks like on a single site. The team developed a prototype in a few days that randomly selects 25 tenders from single-point-in-time data dumps provided by the federal government and 7 provinces and territories. 
 
-Explore helped the team identify the need for guidance on plain language titles and descriptions, missing information in the available data, and discrepencies in data quality. These findings supported the team in developing a taxonomy for tender summaries and guidance for plain language titles and descriptions.
+Explore helped the team identify the need for guidance on plain language titles and descriptions, missing information in the available data, and discrepancies in data quality. These findings supported the team in developing a taxonomy for tender summaries and guidance for plain language titles and descriptions.
 
 ### [Prototype 3, "Filter"](https://single-point-of-access.herokuapp.com/en/start?filters=&gsin=): What can we build given the current data?
 
 As the title suggests, Filter was a low effort way to understand how a single point of access could filter and display results based on the available data provided currently by the federal government and 3 provinces and territories. The team developed a prototype in two weeks to support the most basic user flow to filter opportunities.   
 
-Filter helped the team confirm basic data quality assumptions like, which fields are necessary to support the a feature that refines tender notices. It also helped the team surface complexity associated with the using the Government Services and Goods Identification number as the primary means of filtering.
+Filter helped the team confirm basic data quality assumptions like, which fields are necessary to support a feature that refines tender notices. It also helped the team surface complexity associated with the using the Government Services and Goods Identification number as the primary means of filtering.
 
 [**Code base**](https://github.com/cds-snc/single-point-of-access-data)
 
