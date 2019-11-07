@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Prototypes and Blogs"
+title:  "team news"
 lang: en
-permalink: "/prototypes-blogs/"
+permalink: "/team-news/"
 trans_url: "/nouvelles-dequipe/"
 ---
 
