@@ -6,7 +6,7 @@ permalink: "/background/"
 trans_url: "/contexte/"
 ---
 
-Public sector procurement supports dialy operations and service delivery to Canadians, including federal, provincial, territorial and municipal governments, academic insttitutions, and social and health sectors (FPT MSAH). Getting a full picture of the total dollar value of public sector procurement is tough, but as of 2015, the OECD estimates that general government procurement in Canada is approximately $267 billion [^1], representing 13.44% of Canada's gross domestic product (GDP). [^2]  
+Public sector procurement supports dialy operations and service delivery to Canadians, including federal, provincial, territorial and municipal governments, academic insttitutions, and social and health sectors (FPT MASH). Getting a full picture of the total dollar value of public sector procurement is tough, but as of 2015, the OECD estimates that general government procurement in Canada is approximately $267 billion [^1], representing 13.44% of Canada's gross domestic product (GDP). [^2]  
 
 This figure covers the roughly 10,000 buyer organizations that procure goods, services, and construction for the public sector. Currently nine of the provinces and territories have their MASH sectors post tender opportunities on their platform, unifying multiple jurisdictions and buyer organizations on one platform. As of 13 October, 2017, provincial and territorial procurement websites had approximately 4,000 open opportunities [^3]. 
 
