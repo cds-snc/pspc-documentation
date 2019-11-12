@@ -18,7 +18,7 @@ July 30, 2019: [**Growing Service Design and Design Research at PSPC**](https://
 
 ### [Prototype 1, "Aggregate"](https://github.com/cds-snc/pspc-spa-aggregator): Aggregating multiple data sets
 
-Aggregate is a way to understand how a single point of access might get data from multiple buyer organizations by an automated protocol to display tender notices. 
+Aggregate is a way to understand how a single point of access might get data from multiple buyer organizations by an automated protocol to display tender notices. Building a prototype and testing integrations early helps create working relationships with other buyer organizations and helps us understand their constraints. 
 
 Aggregate converts data from province and territories' existing data schemas and formats into the Open Contracting Data Standard (OCDS) and JSON, and stores it in a database for a front-end and API to be built on. During Discovery the team worked with provincial and territorial counterparts to make integration as easy as possible. 
 
