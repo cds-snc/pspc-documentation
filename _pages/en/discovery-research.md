@@ -23,10 +23,13 @@ The study did not explore what causes a business to decide whether to bid, but r
 <h2>Findings from the diary study</h2>
 
 Overall, participants experienced difficulties in finding opportunities:
+<ul>
 <li>Filters on different sites were either too broad or too specific. </li>
 <li>Participants had little time for searching and faced frequent disruptions in their searches. </li>
 <li>Most participants only found one relevant opportunity over the course of the diary study.</li>
+  </ul>
 
 
-Based on the literature review and diary study, the team developed recommendations to make it easier for businesses to find relevant contract opportunities. 
+
+<p>Based on the literature review and diary study, the team developed recommendations to make it easier for businesses to find relevant contract opportunities. </p>
 
