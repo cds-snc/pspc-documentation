@@ -28,44 +28,44 @@ Businesses need to be able to scan titles for their own key words so they can fi
 Key words from participant quotes in the diary study, which was primarily conducted with technology firms. These are meant only as a starting point, and may not apply to businesses in other industries. 
 
 ### Nouns
-Public sector
-Contracts 
-Procurement
-Requirements 
-Government
-Opportunities 
-Projects 
-Results 
-Tender notice
-Categories 
-Client
-Deadline 
-Contact
-Budget
-Insight 
-Criteria 
-RFP
-Proposal
-Partner
+* Public sector
+* Contracts 
+* Procurement
+* Requirements 
+* Government
+* Opportunities 
+* Projects 
+* Results 
+* Tender notice
+* Categories 
+* Client
+* Deadline 
+* Contact
+* Budget
+* Insight 
+* Criteria 
+* RFP
+* Proposal
+* Partner
 
 ### Verbs
-Check
-Review
-Search
-Filter
-Procures 
-Narrow down
-Scan
-Access 
-“Ask if someone can sponsor secret clearance”
-Prepare 
-Decide 
-Bid 
-Respond 
+* Check
+* Review
+* Search
+* Filter
+* Procures 
+* Narrow down
+* Scan
+* Access 
+* “Ask if someone can sponsor secret clearance”
+* Prepare 
+* Decide 
+* Bid 
+* Respond 
 
 ### Adjectives 
-Active 
-digital
+* Active 
+* Digital
 
 
 
