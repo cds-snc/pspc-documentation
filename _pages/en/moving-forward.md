@@ -20,6 +20,6 @@ We synthesized findings from the diary study into need statements in the voice o
 We created a [content model]({{ site.baseurl }}/assets/documents/FieldsToInclude.pdf) to drill down into relevant fields to display at different points in the business’s journey when finding a relevant contract, as well as the format the information should take. This model is a starting point, offering a hypothesis to focus prototyping and usability testing with businesses to ensure they meet the need statements. 
 
 ## Comparative analysis
-We conducted a [comparative analysis]({{ site.baseurl }}/assets/documents/ComparativeAnalysisPublic.pdf) to see how different jurisdictions enable businesses to find contract opportunities. We found that the UK Contracts Finder and Digital Marketplace show ways to make it easier that can be replicated in Canada and elsewhere. This presentation provides more detailed design guidance for improving the experience of businesses looking for public sector opportunities.
+We conducted a [comparative analysis]({{ site.baseurl }}/assets/documents/ComparativeAnalysisPublic.pdf) to see how different jurisdictions enable businesses to find contract opportunities. We reviewed more than 20 jurisdictions, including several private sector offerings, to inform our analysis. The UK Contracts Finder and Digital Marketplace offer design patterns that we recommend implementing in Canada. This presentation provides more detailed design guidance for improving the experience of businesses looking for public sector opportunities.
 
 
