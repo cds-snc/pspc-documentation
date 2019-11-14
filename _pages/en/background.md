@@ -15,7 +15,7 @@ Currently nine of the provinces and territories have their MASH sectors publish 
 
 A lack of integration between jurisdictions in Canada makes it difficult for businesses to identify which buyer organizations could purchase their products. Based on the team's Discovery research, businesses in Canada report significant barriers to finding contract opportunities relevant to their work.  
 
-##International trade requirement for integrating public buyers 
+## International trade requirement for integrating public buyers 
 In addition to domestic barriers to finding contracts, the Comprehensive Economic Trade Agreement (CETA) with the European Union, [Article 19.6](https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19.aspx?lang=eng) requires that a "single point of access" (SPA) be built to help European businesses identify contract opportunities. It requires that Canada publish “notices of intended procurement” from the public sector on one site by September 21, 2022. 
 
 For both domestic and European businesses, the SPA presents an opportunity to address a key pain point for businesses in Canada - finding relevant contracts quickly and easily. The team's research in Discovery focused on businesses experiences and needs when finding contracts, the technical and business processes of buyer organizations, and the context of doing business in Canada. 
