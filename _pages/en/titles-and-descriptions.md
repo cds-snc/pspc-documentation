@@ -20,9 +20,9 @@ Businesses need to be able to scan titles for their own key words so they can fi
 **Include information about the general category of goods or services you are procuring** -- whether that’s agricultural research, bridge repair, food or software. Remember that businesses of all kinds will be scanning your title among many, trying to discern whether it relates to their business. 
 
 ## Improving descriptions
-Focus on describing the nature and scope of work in one paragraph. Details about how to submit bids or other procurement details are not necessary in the description. Once a business has enough information to think an opportunity is relevant, then they can spend time learning the specific details of how to respond. 
+**Focus on describing the nature and scope of work in one paragraph.** Details about how to submit bids or other procurement details are not necessary in the description. Once a business has enough information to think an opportunity is relevant, then they can spend time learning the specific details of how to respond. 
 
-Give a sense of the scale of work involved or quantity of products needed.
+**Give a sense of the scale of work** involved or quantity of products needed.
 
 ## Key nouns and verbs from diary study
 Key words from participant quotes in the diary study, which was primarily conducted with technology firms. These are meant only as a starting point, and may not apply to businesses in other industries. 
