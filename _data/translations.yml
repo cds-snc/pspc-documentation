@@ -8,7 +8,7 @@ en:
   repo: "Repository"
   language: "Français"
   homepage-slug: "/home/"
-  site-name: "Help Canadians access the CPP Disability benefit"
+  site-name: "Helping businesses find Canadian public sector procurement opportunities"
 fr:
   homepage-tag-line: "Améliorer l’expérience des demandeurs grâce à l’accélération du processus."
   cds-snc: "Service numérique canadien"
@@ -19,4 +19,4 @@ fr:
   repo: "Référentiel"
   language: "English"
   homepage-slug: "/accueil/"
-  site-name: "Aider les Canadiennes et les Canadiens à recevoir des prestations d’invalidité du RPC"
+  site-name: "FR Helping businesses find Canadian public sector procurement opportunities"
