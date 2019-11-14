@@ -27,6 +27,7 @@ Businesses need to be able to scan titles for their own key words so they can fi
 ## Key nouns and verbs from diary study
 Key words from participant quotes in the diary study, which was primarily conducted with technology firms. These are meant only as a starting point, and may not apply to businesses in other industries. 
 
+
 ### Nouns
 * Public sector
 * Contracts 
@@ -48,6 +49,7 @@ Key words from participant quotes in the diary study, which was primarily conduc
 * Proposal
 * Partner
 
+
 ### Verbs
 * Check
 * Review
@@ -62,6 +64,7 @@ Key words from participant quotes in the diary study, which was primarily conduc
 * Decide 
 * Bid 
 * Respond 
+
 
 ### Adjectives 
 * Active 
