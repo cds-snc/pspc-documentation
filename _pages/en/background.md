@@ -11,7 +11,7 @@ Public sector procurement supports daily operations and service delivery to Cana
 ## More than $200 billion every year from 10,000 buyer organizations
 Getting a full picture of the total dollar value of public sector procurement is tough, but as of 2015, the OECD estimates that general government procurement in Canada is approximately $267 billion [^1], representing 13.44% of Canada's gross domestic product (GDP). [^2] This figure covers the roughly 10,000 buyer organizations, including federal, provincial, territorial and municipal governments, academic institutions, and social and health sectors (FPT MASH), that procure goods, services, and construction for the public sector. 
 
-Currently nine of the provinces and territories have their MASH sectors publish tender opportunities on their platform, unifying multiple jurisdictions and buyer organizations on one platform. As of October 13, 2017, provincial and territorial procurement websites had approximately 4,000 open opportunities [^3]. 
+Currently nine of the provinces and territories have their MASH sectors publish tender opportunities on their platform, unifying multiple jurisdictions and buyer organizations on one website. As of October 13, 2017, provincial and territorial procurement websites had approximately 4,000 open opportunities [^3]. 
 
 A lack of integration between jurisdictions in Canada makes it difficult for businesses to identify which buyer organizations could purchase their products. Based on the team's Discovery research, businesses in Canada report significant barriers to finding contract opportunities relevant to their work.  
 
