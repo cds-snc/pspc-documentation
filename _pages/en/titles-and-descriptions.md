@@ -25,7 +25,7 @@ Businesses need to be able to scan titles for their own key words so they can fi
 **Give a sense of the scale of work** involved or quantity of products needed.
 
 ## Key nouns and verbs from diary study
-Key words from participant quotes in the diary study, which was primarily conducted with technology firms. These are meant only as a starting point, and may not apply to businesses in other industries. As well, there were no French participants in this study, so we’re only providing them in English.
+Key words from participant quotes in the diary study, which was primarily conducted with technology firms. These are meant only as a starting point, and may not apply to businesses in other industries. As well, we did not have the opportunity to test with French participants in this study, so we’re only providing them in English.
 
 
 ### Nouns
