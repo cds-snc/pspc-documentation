@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "team news"
+title:  "Team news"
 lang: en
 permalink: "/team-news/"
 trans_url: "/nouvelles-dequipe/"
