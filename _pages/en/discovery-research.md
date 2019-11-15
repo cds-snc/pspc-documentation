@@ -6,7 +6,7 @@ permalink: "/discovery-research/"
 trans_url: "/recherche-de-la-phase-decouverte/"
 ---
 
-During Discovery, we conducted both a secondary literature review and a primary diary study with businesses. 
+During Discovery, we conducted both a secondary literature review and a primary diary study with businesses. For more detailed information on our research, findings, or recommendations, please [contact us](https://cds-snc.github.io/pspc-documentation/contact/).
 
 ## Literature review 
 The literature review was based on research from academia, the European and Canadian Parliament, federal mandate letters, and a lot of information from the Office of Small and Medium Enterprises (OSME). This review helped us understand which groups have common or different needs to build an inclusive and effective service and prioritize features.
