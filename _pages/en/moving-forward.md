@@ -9,7 +9,7 @@ trans_url: "/fr-moving-forward/"
 Our recommendations at the end of the Discovery come from need statements and a comparative analysis. We created a content model to drill deeper into the specific fields and formatting of information for suppliers to use when searching for contract opportunities.
 
 ## Need statements
-We synthesized findings from the diary study into need statements in the voice of businesses to help make decisions and prioritize how to build or improve services. Consider these needs when improving procurement websites for businesses:
+We synthesized findings from the diary study into [need statements]({{ site.baseurl }}/assets/documents/Business-Needs-PSPC.pdf) in the voice of businesses to help make decisions and prioritize how to build or improve services. Consider these needs when improving procurement websites for businesses:
 * I need to be able to narrow down opportunities to find ones relevant to me.
 * I need to know if an opportunity is worth pursuing.
 * I need to find the platform on my search engine.
