@@ -1,5 +1,5 @@
 en:
-  homepage-tag-line: "Improving the applicant experience by speeding up the process."
+  homepage-tag-line: ""
   cds-snc: "Canadian Digital Service"
   cds-snc-url: "https://digital.canada.ca"
   hosting: "Hosted on"
@@ -10,7 +10,7 @@ en:
   homepage-slug: "/home/"
   site-name: "Helping businesses find Canadian public sector procurement opportunities"
 fr:
-  homepage-tag-line: "Améliorer l’expérience des demandeurs grâce à l’accélération du processus."
+  homepage-tag-line: ""
   cds-snc: "Service numérique canadien"
   cds-snc-url: "https://numerique.canada.ca"
   hosting: "Hébergé dans"
