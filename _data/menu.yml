@@ -14,9 +14,6 @@ en:
   titles-and-descriptions:
     name: "How to improve titles and descriptions"
     url: "/titles-and-descriptions/"
-  participate:
-    name: "Participate in research"
-    url: "/participate/"
   team-news:
     name: "Team news"
     url: "/team-news/"
@@ -39,9 +36,6 @@ fr:
   fr-titles-and-descriptions:
     name: "FR How to improve titles and descriptions"
     url: "/fr-titles-and-descriptions/"
-  participate:
-    name: "Participez à notre recherche"
-    url: "/participez/"
   team-news:
     name: "Nouvelles d'équipe"
     url: "/nouvelles-dequipe/"
