@@ -1,6 +1,6 @@
 # PSPC documentation
 
-Documenting CDS and ESDC's work to help Canadians access the CPP Disability benefit.
+Documenting CDS and PSPC's work to help business find Canadian public sector opportunities.
 
 ## Editing the documentation
 
