@@ -2,8 +2,8 @@
 layout: page
 title:  "Aspects à considére"
 lang: fr
-permalink: "/fr-moving-forward/"
-trans_url: "/moving-forward/"
+permalink: "/Aspects-à-considérer/"
+trans_url: "/Aspects-à-considérer/"
 ---
 Nos recommandations à la fin de la phase découverte proviennent d’énoncés de besoins et d’une analyse comparative. Nous avons créé un modèle de contenu pour étudier plus en profondeur les champs spécifiques et le format des informations que les fournisseurs peuvent utiliser lorsqu’ils recherchent des possibilités de contrat.
 ## Énoncés de besoins
