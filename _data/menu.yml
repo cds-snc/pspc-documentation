@@ -30,10 +30,10 @@ fr:
   research:
     name: "Recherche de la phase découverte et conclusions"
     url: "/recherche-de-la-phase-decouverte/"
-  fr-moving-forward:
-    name: "FR Considerations for moving forward"
-    url: "/fr-moving-forward/"
-  fr-titles-and-descriptions:
+  moving-forward:
+    name: "Aspects à considérer"
+    url: "/aspects-a-considerer/"
+  titles-and-descriptions:
     name: "FR How to improve titles and descriptions"
     url: "/fr-titles-and-descriptions/"
   team-news:

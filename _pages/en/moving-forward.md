@@ -3,7 +3,7 @@ layout: page
 title:  "Considerations for moving forward"
 lang: en
 permalink: "/moving-forward/"
-trans_url: "/fr-moving-forward/"
+trans_url: "/aspects-a-considerer/"
 ---
 
 Our recommendations at the end of the Discovery come from need statements and a comparative analysis. We created a content model to drill deeper into the specific fields and formatting of information for suppliers to use when searching for contract opportunities.
