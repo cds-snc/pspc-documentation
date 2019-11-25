@@ -3,7 +3,7 @@ layout: page
 title:  "How to improve titles and descriptions"
 lang: en
 permalink: "/titles-and-descriptions/"
-trans_url: "/fr-titles-and-descriptions/"
+trans_url: "/titres-et-descriptions/"
 ---
 
 Some of the most important improvements that can be made to procurement sites are to the titles and descriptions of opportunities. The following suggestions are intended for people who create procurement documents and input the information that gets displayed on their sites.

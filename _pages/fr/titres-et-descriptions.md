@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "FR How to improve titles and descriptions"
+title:  "Comment améliorer les titres et les descriptions"
 lang: fr
-permalink: "/fr-titles-and-descriptions/"
+permalink: "/titres-et-descriptions/"
 trans_url: "/titles-and-descriptions/"
 ---
 
