@@ -6,28 +6,23 @@ permalink: "/contexte/"
 trans_url: "/background/"
 ---
 
-Le Programme de prestations d’invalidité du Régime de pensions du Canada (PPIRPC) instauré en 1966 est le plus important programme de prestations d’invalidité de longue durée au Canada; il a distribué 4,4 milliards de dollars de prestations à 338 000 personnes et 83 000 de leurs enfants au cours de l’exercice 2017-2018[^1].
+Le secteur de l’approvisionnement public soutient les activités quotidiennes et la prestation de services aux Canadiens.
+## Plus de 200 milliards de dollars par année proviennent de 10 000 organisations acheteuses
+Il est difficile de brosser un tableau complet de la valeur monétaire totale de l’approvisionnement public. Toutefois, en 2015, l’Organisation de coopération et de développement économiques (OCDE) a estimé la valeur de l’approvisionnement dans les administrations publiques au Canada à environ 267 milliards de dollars [^1], ce qui représente 13,44 % du produit intérieur brut (PIB). [^2] Ce chiffre tient compte des quelque 10 000 organisations acheteuses, y compris les gouvernements fédéral, provinciaux et territoriaux, les municipalités, les établissements d’enseignement supérieur et les secteurs des services sociaux et de la santé (secteur MESSS), qui paient des biens, des services et des travaux de construction pour le secteur public.
 
-En 2015, le Bureau du vérificateur général du Canada (BVG) [a examiné le programme PPIRPC](http://www.oag-bvg.gc.ca/internet/Francais/parl_oag_201602_06_f_41063.html). Son examen visait en partie à établir si EDSC avait évalué les demandes du PPIRPC de façon uniforme et rapide :
+À l’heure actuelle, les secteurs MESSS de neuf des provinces et territoires publient leurs appels d’offres sur leur plateforme, ce qui permet à de multiples administrations et organisations acheteuses de se retrouver sur un seul site Web. En date du 13 octobre 2017, les sites Web d’approvisionnement provinciaux et territoriaux affichaient environ 4 000 appels d’offres ouverts [^3].
 
- > « Les Canadiens qui ont cotisé au Régime de pensions du Canada et qui se trouvent dans l’incapacité de travailler en raison d’une invalidité grave ou prolongée pourraient **devoir compter sur le PPIRPC** comme source de revenus. Le Ministère et le Tribunal doivent gérer les demandes et les appels le plus efficacement possible pour que les requérants **puissent recevoir en temps opportun les prestations** auxquelles ils ont droit. »
- <div style="text-align: right">— Bureau du vérificateur général du Canada</div>
- <div style="text-align: right">Rapport no 6 de l’automne 2015 : Programme de prestations d’invalidité
-du Régime de pensions du Canada
-</div>
- <div style="text-align: right">(les caractères gras sont de nous)</div>
+Il est difficile pour les entreprises de déterminer quels organisations acheteuses pourraient acheter leurs produits en raison du manque d’intégration entre les administrations au Canada. Selon les résultats de la recherche exploratoire effectuée par l’équipe, les entreprises au Canada éprouvent d’énormes difficultés à trouver des contrats pertinents pour leur travail.
 
-En prévision du dépôt du rapport de 2015 du BVG sur le PPIRPC, EDSC a entrepris un renouvellement pluriannuel complet (2015-2019) du PPIRPC. Le plan de travail pour le renouvellement du PPIRPC met l’accent sur des initiatives à court et à long terme qui appuient trois domaines ciblés d’amélioration :
+## Exigence du commerce international en matière d’intégration des acheteurs publics
+En plus des obstacles à l’accès aux contrats à l’échelle nationale, l’article 19.6 de l’Accord économique et commercial global (AECG) signé avec l’Union européenne exige la création d’un « point d’accès unique » pour aider les entreprises européennes à trouver des possibilités de contrats. En vertu de cet article, le Canada doit publier des « avis de projet de marché » du secteur public sur un site d’ici le 21 septembre 2022.
 
-* améliorer la **pertinence** de la prise de décisions, afin de rendre des décisions cohérentes et durables sur des cas individuels le plus tôt possible dans le processus d’arbitrage;
-* régler le problème de **lenteur** du processus de demande et du processus d’arbitrage afin de répondre à la nécessité de prendre rapidement des décisions de qualité;
-* améliorer l’**ouverture** du programme grâce à une meilleure communication avec les clients et les autres intervenants.
+Pour les entreprises canadiennes et européennes, le point d’accès unique offre l’occasion de s’attaquer à un point névralgique pour les entreprises au Canada : trouver rapidement et facilement des contrats pertinents. La recherche exploratoire de l’équipe a porté sur les expériences et les besoins des entreprises lorsqu’elles cherchent des contrats, les processus techniques et commerciaux des organisations acheteuses ainsi que le contexte des affaires au Canada.
 
-Au cours de l’exercice 2017-2018, EDSC a respecté, 77,4 % du temps, la norme de service l’engageant à rendre une décision sur les demandes de prestations d’invalidité du RPC dans les 120 jours suivant la réception d’une demande complète[^2].
-
-Il est clairement nécessaire que les demandeurs du PPIRPC reçoivent la bonne décision sur leur demande le plus rapidement possible. Ce besoin, conjugué aux efforts d’EDSC dans le renouvellement du PPIRPC, a incité le SNC à s’associer à EDSC pour explorer comment nous pouvons obtenir plus rapidement les réponses et les prestations dont les gens ont besoin.
 
 ---
 
-[^1]: [Rapport annuel du Régime de pensions du Canada pour l’exercice financier 2017 à 2018](https://www.canada.ca/fr/emploi-developpement-social/programmes/pensions/rapports/annuel-2018.html)
-[^2]: [Compte rendu du rendement des services d’EDSC pour l’exercice financier de 2017 à 2018](https://www.canada.ca/fr/emploi-developpement-social/ministere/transparence/normes-service-2017-2018.html)
+[^1]: L’approvisionnement dans les administrations publiques représente 13,44 % du produit intérieur brut du Canada (1,983 billion de dollars), soit 267 milliards de dollars.
+[^2]: OECD.Stat (2017). Panorama des administrations publiques – édition 2017 : Approvisionnement public (tableau : General government procurement as a percentage of GDP). [Extrait de](https://stats.oecd.org/Index.aspx?lang=fr&SubSessionId=42b04078-b3ab-44c4-aad7-5b12d6aa2844&themetreeid=18) 
+[^3]: Borden Ladner Gervais SENCRL et Tereposky & DeRose SENCRL (2018). Market access opportunities for EU business in Canada in the context of CETA, p. 78. [Extrait de](https://euccan.com/wp-content/uploads/2018/12/Market-access-opportunities-for-EU-business-in-Canada-in-the-context-of-CETA_May-2018.pdf) (en anglais seulement)
+
