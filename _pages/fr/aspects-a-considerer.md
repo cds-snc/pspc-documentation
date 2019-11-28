@@ -6,17 +6,19 @@ permalink: "/aspects-a-considerer/"
 trans_url: "/moving-forward/"
 ---
 Nos recommandations à la fin de la phase découverte proviennent d’énoncés de besoins et d’une analyse comparative. Nous avons créé un modèle de contenu pour étudier plus en profondeur les champs spécifiques et le format des informations que les fournisseurs peuvent utiliser lorsqu’ils recherchent des possibilités de contrat.
+
 ## Énoncés de besoins
-Nous avons synthétisé les résultats de l’étude des journaux de bord sous forme d’énoncés de besoins que pourraient formuler les entreprises, l’objectif étant de faciliter la prise de décisions et l’établissement de priorités lors de la création ou de l’amélioration des services. Nous suggérons de tenir compte de ces besoins lors de l’amélioration des sites Web d’approvisionnement pour les entreprises :
-*Je dois être en mesure de réduire les possibilités afin de trouver celles qui me sont pertinentes.
+Nous avons synthétisé les résultats de l’étude des journaux de bord sous forme [d’énoncés de besoins]({{ site.baseurl }}/assets/documents/Business-Needs-PSPC.pdf) (en anglais seulement) que pourraient formuler les entreprises, l’objectif étant de faciliter la prise de décisions et l’établissement de priorités lors de la création ou de l’amélioration des services. Nous suggérons de tenir compte de ces besoins lors de l’amélioration des sites Web d’approvisionnement pour les entreprises :
+* Je dois être en mesure de réduire les possibilités afin de trouver celles qui me sont pertinentes.
 * Je dois savoir si une possibilité vaut la peine d’être étudiée.
 * Je dois trouver la plateforme sur mon moteur de recherche.
 * Je dois comprendre l’information.
 * Je dois reprendre là où j’en étais après une interruption.
+
 ## Champs à afficher et activation du filtrage 
-Nous avons créé un modèle de contenu (en anglais seulement) pour étudier les domaines pertinents et les afficher à différents moments du parcours de l’entreprise lors de la recherche d’un contrat pertinent, ainsi que le format que l’information doit prendre. Ce modèle constitue un point de départ, une hypothèse permettant de cibler le prototypage et les tests d’utilisabilité avec les entreprises afin de s’assurer que les énoncés des besoins sont satisfaits.
+Nous avons créé un [modèle de contenu]({{ site.baseurl }}/assets/documents/FieldsToInclude.pdf) (en anglais seulement) pour étudier les domaines pertinents et les afficher à différents moments du parcours de l’entreprise lors de la recherche d’un contrat pertinent, ainsi que le format que l’information doit prendre. Ce modèle constitue un point de départ, une hypothèse permettant de cibler le prototypage et les tests d’utilisabilité avec les entreprises afin de s’assurer que les énoncés des besoins sont satisfaits.
 ## Analyse comparative
-Nous avons effectué une analyse comparative (en anglais seulement) pour voir comment les différentes administrations permettent aux entreprises de trouver des possibilités de contrats. Nous avons examiné plus de 20 administrations, y compris plusieurs offres du secteur privé, pour éclairer notre analyse. Le Chercheur de contrats (Contracts Finder) et le Marché numérique (Digital Marketplace) du Royaume-Uni offrent des modèles de conception que nous recommandons de mettre en œuvre au Canada. La présentation de l’analyse comparative fournit des conseils de conception plus détaillés pour améliorer l’expérience des entreprises à la recherche de débouchés dans le secteur public.
+Nous avons effectué une [analyse comparative]({{ site.baseurl }}/assets/documents/ComparativeAnalysisPublic.pdf) (en anglais seulement) pour voir comment les différentes administrations permettent aux entreprises de trouver des possibilités de contrats. Nous avons examiné plus de 20 administrations, y compris plusieurs offres du secteur privé, pour éclairer notre analyse. Le Chercheur de contrats (Contracts Finder) et le Marché numérique (Digital Marketplace) du Royaume-Uni offrent des modèles de conception que nous recommandons de mettre en œuvre au Canada. La présentation de l’analyse comparative fournit des conseils de conception plus détaillés pour améliorer l’expérience des entreprises à la recherche de débouchés dans le secteur public.
 ## Respect des exigences de l’Accord économique et commercial global (AECG)
 En plus d’exiger l’existence du PAU, l’AECG précise une dizaine de champs de données que chaque résumé d’appel d’offres sur le site doit inclure. Ces champs sont précisés dans les exigences de l’article 19.6 de l’accord. Comme la spécification est exprimée en termes généraux, la mise en œuvre des champs nécessite une déduction et risque d’être mal interprétée.  
 
