@@ -8,7 +8,8 @@ trans_url: "/moving-forward/"
 Nos recommandations à la fin de la phase découverte proviennent d’énoncés de besoins et d’une analyse comparative. Nous avons créé un modèle de contenu pour étudier plus en profondeur les champs spécifiques et le format des informations que les fournisseurs peuvent utiliser lorsqu’ils recherchent des possibilités de contrat.
 
 ## Énoncés de besoins
-Nous avons synthétisé les résultats de l’étude des journaux de bord sous forme [d’énoncés de besoins]({{ site.baseurl }}/assets/documents/Business-Needs-PSPC.pdf) (en anglais seulement) que pourraient formuler les entreprises, l’objectif étant de faciliter la prise de décisions et l’établissement de priorités lors de la création ou de l’amélioration des services. Nous suggérons de tenir compte de ces besoins lors de l’amélioration des sites Web d’approvisionnement pour les entreprises :
+Nous avons synthétisé les résultats de l’étude des journaux de bord sous forme [d’énoncés de besoins]({{ site.baseurl }}/assets/documents/Business-Needs-PSPC.pdf) (en anglais seulement) que pourraient formuler les entreprises, l’objectif étant de faciliter la prise de décisions et l’établissement de priorités lors de la création ou de l’amélioration des services. Nous suggérons de tenir compte de ces besoins lors de l’amélioration des sites Web d’approvisionnement pour les entreprises&nbsp;:
+
 * Je dois être en mesure de réduire les possibilités afin de trouver celles qui me sont pertinentes.
 * Je dois savoir si une possibilité vaut la peine d’être étudiée.
 * Je dois trouver la plateforme sur mon moteur de recherche.
